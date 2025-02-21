@@ -1,6 +1,4 @@
-# AB Consulting
 
-Bienvenue sur le site officiel de **AB Consulting** ! 🚀  
 Nous sommes une société spécialisée en [ton domaine d'activité] et nous accompagnons nos clients dans leurs projets avec expertise et engagement.
 
 ## 🌍 À propos de nous
@@ -13,10 +11,10 @@ Nous aidons les entreprises à **[valeur ajoutée que vous apportez]**.
 - ✅ **Service 3** : Description rapide  
 
 ## 🚀 Accès au site
-🔗 [Visitez notre site](https://ton-utilisateur.github.io/AB-Consulting/)  
+🔗 []()  
 
 ## 📫 Contact
-📧 Email : contact@ab-consulting.com  
+📧 Email : 
 📞 Téléphone : +33 6 12 34 56 78  
 📍 Adresse : 123 Rue Exemple, Paris, France  
 
